@@ -20,7 +20,7 @@ type Project = {
 };
 
 export default function Home() {
-  const [isDarkMode, setIsDarkMode] = useState(true);
+  const [, setIsDarkMode] = useState(true);
   const [selectedProject, setSelectedProject] = useState<Project | null>(null);
   const [isModalOpen, setIsModalOpen] = useState(false);
 
