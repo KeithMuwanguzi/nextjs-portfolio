@@ -159,7 +159,7 @@ export default function Home() {
           </h2>
           <div className="max-w-3xl mx-auto text-gray-600 dark:text-gray-300 space-y-6 mb-12">
             <p className="transform hover:scale-105 transition-transform duration-300">
-              I'm a passionate full-stack developer with 5+ years of experience
+              I am a passionate full-stack developer with 5+ years of experience
               building robust applications. Specializing in Flutter for mobile
               development and .NET for backend services.
             </p>
